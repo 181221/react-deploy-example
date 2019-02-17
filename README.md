@@ -13,7 +13,7 @@ add the following to package.json
     "deploy": "gh-pages -d build"
 
 then run with yarn or npm
-  
- yarn run deploy
+
+    yarn run deploy
 
 Remember to add github pages in github repository and select gh-pages branch
